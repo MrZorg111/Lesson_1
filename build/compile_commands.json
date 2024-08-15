@@ -1,8 +1,8 @@
 [
 {
-  "directory": "C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_33_Iskluchenia/Lesson_1/build/src",
-  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Lesson_1.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Lesson_1.dir\\main.cpp.obj -c C:\\Users\\yodji\\source\\repos\\Lesson_Skillbox\\Lesson_33_Iskluchenia\\Lesson_1\\src\\main.cpp",
-  "file": "C:/Users/yodji/source/repos/Lesson_Skillbox/Lesson_33_Iskluchenia/Lesson_1/src/main.cpp",
+  "directory": "C:/Users/yodji/Documents/Skillbox_Lessons/Lesson_33/Lesson_1/build/src",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Lesson_1.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Lesson_1.dir\\main.cpp.obj -c C:\\Users\\yodji\\Documents\\Skillbox_Lessons\\Lesson_33\\Lesson_1\\src\\main.cpp",
+  "file": "C:/Users/yodji/Documents/Skillbox_Lessons/Lesson_33/Lesson_1/src/main.cpp",
   "output": "src/CMakeFiles/Lesson_1.dir/main.cpp.obj"
 }
 ]
